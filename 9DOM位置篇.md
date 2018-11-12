@@ -116,7 +116,3 @@ function offsetTop(element) {
 }
 ```
 
-
-[slide]
-# 智游集团
-## nodeJS培训课程

@@ -120,7 +120,3 @@ window.onload = function ()
 ##综合练习--tab切换
 ###效果
 <iframe src='/demos/tab.html'></iframe>
-
-[slide]
-# 智游集团
-## nodeJS培训课程

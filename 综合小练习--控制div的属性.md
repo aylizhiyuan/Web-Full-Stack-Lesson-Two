@@ -70,6 +70,3 @@ window.onload = function (){
 ###效果
 <iframe src='/demos/div.html'></iframe>
 
-[slide]
-# 智游集团
-## nodeJS培训课程

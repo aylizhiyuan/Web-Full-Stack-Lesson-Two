@@ -226,7 +226,3 @@ document对象的学习，分为<b>文档类型</b>和<b>位置类型</b>
 </script>
 ```
 
-
-[slide]
-# 智游集团
-## nodeJS培训课程
