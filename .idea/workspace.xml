@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4af892a-14db-46bc-ac82-a221e7b1824d" name="Default" comment="" />
+    <list default="true" id="f4af892a-14db-46bc-ac82-a221e7b1824d" name="Default" comment="修改">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0javascript基本数据类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/0 javascript基本数据类型.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10事件.md" beforeDir="false" afterPath="$PROJECT_DIR$/10 DOM事件.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1运算符.md" beforeDir="false" afterPath="$PROJECT_DIR$/1 运算符.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2类型与类型之间的转化.md" beforeDir="false" afterPath="$PROJECT_DIR$/2 类型与类型之间的转化.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3内置语句的学习.md" beforeDir="false" afterPath="$PROJECT_DIR$/3 内置语句的学习.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4复杂数据类型的创建.md" beforeDir="false" afterPath="$PROJECT_DIR$/4 复杂数据类型的创建.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5数据类型内置方法的学习.md" beforeDir="false" afterPath="$PROJECT_DIR$/5 数据类型内置方法的学习.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6调试代码.md" beforeDir="false" afterPath="$PROJECT_DIR$/6 调试代码.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7变量作用域专题.md" beforeDir="false" afterPath="$PROJECT_DIR$/7 变量作用域专题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8DOM文档篇.md" beforeDir="false" afterPath="$PROJECT_DIR$/8 DOM文档.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9DOM位置篇.md" beforeDir="false" afterPath="$PROJECT_DIR$/9 DOM位置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DOM操作.xmind" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DOM的学习文档.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript学习.xmind" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript的学习文档.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/事件.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/扩展知识--概念理解/JS事件的理解.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/扩展知识--概念理解/dom的学习.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/扩展知识--概念理解/javascript的学习.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/扩展知识--概念理解/localStorage学习.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/扩展知识--概念理解/完美居中.docx" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -18,10 +41,62 @@
     <session id="1978531187">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="md" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="txt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1997590421">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.30" value="1" />
           <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="md" value="29" />
+          <entry key="rtf" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Markdown" value="29" />
+          <entry key="PLAIN_TEXT" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="md" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="3" />
         </counts>
       </usages-collector>
     </session>
@@ -57,35 +132,36 @@
         <option value="$PROJECT_DIR$/类型与类型之间的转化.md" />
         <option value="$PROJECT_DIR$/test.txt" />
         <option value="$PROJECT_DIR$/demos/history.html" />
-        <option value="$PROJECT_DIR$/2类型与类型之间的转化.md" />
         <option value="$PROJECT_DIR$/demo.md" />
         <option value="$PROJECT_DIR$/8DOM.md" />
-        <option value="$PROJECT_DIR$/8DOM文档篇.md" />
         <option value="$PROJECT_DIR$/10事件.md" />
-        <option value="$PROJECT_DIR$/综合小练习--控制div的属性.md" />
         <option value="$PROJECT_DIR$/demos/alert.html" />
-        <option value="$PROJECT_DIR$/综合小练习--弹出框.md" />
         <option value="$PROJECT_DIR$/demos/tab.html" />
-        <option value="$PROJECT_DIR$/综合小练习--tab切换.md" />
         <option value="$PROJECT_DIR$/demos/check.html" />
-        <option value="$PROJECT_DIR$/综合小练习--全选与全不选.md" />
-        <option value="$PROJECT_DIR$/综合小练习--倒计时.md" />
         <option value="$PROJECT_DIR$/demos/image.html" />
-        <option value="$PROJECT_DIR$/综合小练习--自动轮播.md" />
         <option value="$PROJECT_DIR$/demos/drag.html" />
-        <option value="$PROJECT_DIR$/综合小练习--星级评分.md" />
-        <option value="$PROJECT_DIR$/综合小练习--拖拽.md" />
+        <option value="$PROJECT_DIR$/demos/time.html" />
+        <option value="$PROJECT_DIR$/demos/star.html" />
         <option value="$PROJECT_DIR$/0javascript基本数据类型.md" />
         <option value="$PROJECT_DIR$/1运算符.md" />
+        <option value="$PROJECT_DIR$/2类型与类型之间的转化.md" />
         <option value="$PROJECT_DIR$/3内置语句的学习.md" />
         <option value="$PROJECT_DIR$/4复杂数据类型的创建.md" />
         <option value="$PROJECT_DIR$/5数据类型内置方法的学习.md" />
         <option value="$PROJECT_DIR$/6调试代码.md" />
+        <option value="$PROJECT_DIR$/7变量作用域专题.md" />
+        <option value="$PROJECT_DIR$/8DOM文档篇.md" />
         <option value="$PROJECT_DIR$/9DOM位置篇.md" />
         <option value="$PROJECT_DIR$/事件.md" />
-        <option value="$PROJECT_DIR$/7变量作用域专题.md" />
-        <option value="$PROJECT_DIR$/demos/time.html" />
-        <option value="$PROJECT_DIR$/demos/star.html" />
+        <option value="$PROJECT_DIR$/综合小练习--tab切换.md" />
+        <option value="$PROJECT_DIR$/综合小练习--倒计时.md" />
+        <option value="$PROJECT_DIR$/综合小练习--全选与全不选.md" />
+        <option value="$PROJECT_DIR$/综合小练习--弹出框.md" />
+        <option value="$PROJECT_DIR$/综合小练习--拖拽.md" />
+        <option value="$PROJECT_DIR$/综合小练习--控制div的属性.md" />
+        <option value="$PROJECT_DIR$/综合小练习--星级评分.md" />
+        <option value="$PROJECT_DIR$/综合小练习--自动轮播.md" />
+        <option value="$PROJECT_DIR$/9DOM事件.md" />
       </list>
     </option>
   </component>
@@ -117,8 +193,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="第一阶段WEB技术--- JavaScript" type="b2602c69:ProjectViewProjectNode" />
-              <item name="第一阶段WEB技术--- JavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="2第一阶段--JavaScript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2第一阶段--JavaScript" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -228,16 +304,52 @@
       <workItem from="1534120997949" duration="1626000" />
       <workItem from="1537431094559" duration="1000000" />
       <workItem from="1540455672024" duration="566000" />
+      <workItem from="1542013401151" duration="789000" />
+      <workItem from="1557577438251" duration="1459000" />
+      <workItem from="1558071664991" duration="516000" />
     </task>
+    <task id="LOCAL-00001" summary="修改">
+      <created>1542013539269</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542013539269</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85700000" />
+    <option name="totallyTimeSpent" value="88464000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1654373" />
+      <window_info id="DB Browser" order="1" weight="0.32964134" />
+      <window_info id="MaxCompute Job Explorer" order="2" weight="0.32964134" />
+      <window_info id="MaxCompute Project Explorer" order="3" weight="0.32964134" />
+      <window_info id="Structure" order="4" weight="0.25" />
+      <window_info id="Favorites" order="5" side_tool="true" weight="0.32964134" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="DB Execution Console" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.6710098" />
+      <window_info anchor="bottom" id="MaxCompute Console" order="10" />
+      <window_info anchor="bottom" id="MaxCompute Job" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32956687" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1654373" />
       <window_info id="DB Browser" order="1" weight="0.32964134" />
       <window_info id="MaxCompute Job Explorer" order="2" weight="0.32964134" />
       <window_info id="MaxCompute Project Explorer" order="3" weight="0.32964134" />
@@ -260,30 +372,6 @@
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.276" />
-      <window_info id="DB Browser" order="1" weight="0.32964134" />
-      <window_info id="MaxCompute Job Explorer" order="2" weight="0.32964134" />
-      <window_info id="MaxCompute Project Explorer" order="3" weight="0.32964134" />
-      <window_info id="Structure" order="4" weight="0.25" />
-      <window_info id="Favorites" order="5" side_tool="true" weight="0.32964134" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="DB Execution Console" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.5181347" />
-      <window_info anchor="bottom" id="MaxCompute Console" order="10" />
-      <window_info anchor="bottom" id="MaxCompute Job" order="11" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32956687" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,10 +380,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../第一周/16.md" />
-    <entry file="file://$PROJECT_DIR$/../第一周/19.md" />
-    <entry file="file://$PROJECT_DIR$/dom的学习.rtf" />
     <entry file="file://$PROJECT_DIR$/test.txt" />
     <entry file="file://$PROJECT_DIR$/js/index.js" />
     <entry file="file://$PROJECT_DIR$/js/js/event/broadcast.js" />
@@ -316,15 +405,10 @@
         <state relative-caret-position="-525" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/综合小练习--弹出框.md" />
-    <entry file="file://$PROJECT_DIR$/综合小练习--全选与全不选.md" />
-    <entry file="file://$PROJECT_DIR$/综合小练习--倒计时.md" />
-    <entry file="file://$PROJECT_DIR$/综合小练习--拖拽.md" />
     <entry file="file://$PROJECT_DIR$/demo.md" />
     <entry file="file://$PROJECT_DIR$/../第三周/扩展知识--面对对象的思路分析/弹出框--第二版.html" />
     <entry file="file://$PROJECT_DIR$/../第三周/扩展知识--面对对象的思路分析/弹出框--第一版.html" />
     <entry file="file://$PROJECT_DIR$/../第三周/index.html" />
-    <entry file="file://$PROJECT_DIR$/3内置语句的学习.md" />
     <entry file="file://$PROJECT_DIR$/js/highlight/highlight.pack.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
@@ -332,18 +416,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4复杂数据类型的创建.md" />
-    <entry file="file://$PROJECT_DIR$/5数据类型内置方法的学习.md" />
     <entry file="file://$PROJECT_DIR$/../第四周/mysql语句练习/mysql中的增删改查.html" />
     <entry file="file://$PROJECT_DIR$/../第四周/mysql语句练习/mysql数据类型总结.html" />
-    <entry file="file://$PROJECT_DIR$/6调试代码.md" />
-    <entry file="file://$PROJECT_DIR$/综合小练习--自动轮播.md" />
-    <entry file="file://$PROJECT_DIR$/综合小练习--星级评分.md" />
-    <entry file="file://$PROJECT_DIR$/综合小练习--tab切换.md" />
-    <entry file="file://$PROJECT_DIR$/8DOM文档篇.md" />
-    <entry file="file://$PROJECT_DIR$/9DOM位置篇.md" />
     <entry file="file://$PROJECT_DIR$/../第三周/扩展知识--常用网站特效总结以及插件开发/商品筛选2.html" />
-    <entry file="file://$PROJECT_DIR$/事件.md" />
     <entry file="file://$PROJECT_DIR$/demos/alert.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="784">
@@ -358,9 +433,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2类型与类型之间的转化.md" />
-    <entry file="file://$PROJECT_DIR$/1运算符.md" />
-    <entry file="file://$PROJECT_DIR$/0javascript基本数据类型.md" />
     <entry file="file://$PROJECT_DIR$/扩展知识--JS重要概念的一个总结/ajax.html" />
     <entry file="file://$PROJECT_DIR$/demos/check.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -426,7 +498,271 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/7变量作用域专题.md" />
-    <entry file="file://$PROJECT_DIR$/综合小练习--控制div的属性.md" />
+    <entry file="file://$PROJECT_DIR$/事件.md" />
+    <entry file="file://$PROJECT_DIR$/javascript的学习文档.rtf" />
+    <entry file="file://$PROJECT_DIR$/DOM操作的学习.rtf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0 javascript基本数据类型.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="113" selection-start-line="113" selection-end-line="113" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-3540" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1 运算符.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="142" selection-start-line="142" selection-end-line="142" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="3985">
+            <caret line="125" column="20" lean-forward="true" selection-start-line="125" selection-start-column="20" selection-end-line="125" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 类型与类型之间的转化.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="685">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2240">
+            <caret line="72" column="91" lean-forward="true" selection-start-line="72" selection-start-column="91" selection-end-line="72" selection-end-column="91" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 内置语句的学习.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="685">
+          <caret line="135" selection-start-line="135" selection-end-line="135" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-3045" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4 复杂数据类型的创建.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="685">
+          <caret line="142" selection-start-line="142" selection-end-line="142" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-4310" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5 数据类型内置方法的学习.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="685">
+          <caret line="588" selection-start-line="588" selection-end-line="588" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-5985">
+            <folding>
+              <element signature="n#!!doc" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 调试代码.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="685">
+          <caret line="279" selection-start-line="279" selection-end-line="279" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-4095" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7 变量作用域专题.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="685">
+          <caret line="499" selection-start-line="499" selection-end-line="499" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-17400">
+            <folding>
+              <element signature="n#!!doc" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8 DOM文档.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="685">
+          <caret line="228" selection-start-line="228" selection-end-line="228" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-7460" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/综合小练习--控制div的属性.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="685">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-2000" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/综合小练习--自动轮播.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/综合小练习--星级评分.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="685">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-2245" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/综合小练习--拖拽.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="685">
+          <caret line="153" selection-start-line="153" selection-end-line="153" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-5045" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/综合小练习--弹出框.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="685">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-2210" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/综合小练习--全选与全不选.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="685">
+          <caret line="113" selection-start-line="113" selection-end-line="113" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-3855" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/综合小练习--倒计时.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="685">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-2735" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/综合小练习--tab切换.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="685">
+          <caret line="122" selection-start-line="122" selection-end-line="122" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-3575" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10 DOM事件.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-3190">
+            <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9 DOM位置.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="685">
+          <caret line="118" selection-start-line="118" selection-end-line="118" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-3505">
+            <folding>
+              <element signature="n#!!doc" expanded="true" />
+              <element signature="n#!!doc" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
