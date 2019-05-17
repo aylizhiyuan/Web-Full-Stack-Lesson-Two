@@ -5,12 +5,13 @@ web全栈第二课-- Javascript
 
 打开步骤：
 
-> 1.全局安装nodeppt  
+> 1.全局安装nodeppt 
+ 
             npm install -g nodeppt
             
 > 2.进入项目目录后,输入nodppt start 启动项目
 
-#课程的目录
+## 课程的目录
 1. javascript基本数据类型
 2. 运算符
 3. 类型与类型之间的转化
