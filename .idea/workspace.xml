@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4af892a-14db-46bc-ac82-a221e7b1824d" name="Default" comment="修改">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0javascript基本数据类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/0 javascript基本数据类型.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10事件.md" beforeDir="false" afterPath="$PROJECT_DIR$/10 DOM事件.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1运算符.md" beforeDir="false" afterPath="$PROJECT_DIR$/1 运算符.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2类型与类型之间的转化.md" beforeDir="false" afterPath="$PROJECT_DIR$/2 类型与类型之间的转化.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3内置语句的学习.md" beforeDir="false" afterPath="$PROJECT_DIR$/3 内置语句的学习.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4复杂数据类型的创建.md" beforeDir="false" afterPath="$PROJECT_DIR$/4 复杂数据类型的创建.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5数据类型内置方法的学习.md" beforeDir="false" afterPath="$PROJECT_DIR$/5 数据类型内置方法的学习.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6调试代码.md" beforeDir="false" afterPath="$PROJECT_DIR$/6 调试代码.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7变量作用域专题.md" beforeDir="false" afterPath="$PROJECT_DIR$/7 变量作用域专题.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8DOM文档篇.md" beforeDir="false" afterPath="$PROJECT_DIR$/8 DOM文档.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9DOM位置篇.md" beforeDir="false" afterPath="$PROJECT_DIR$/9 DOM位置.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DOM操作.xmind" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DOM的学习文档.rtf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript学习.xmind" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript的学习文档.rtf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/事件.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/扩展知识--概念理解/JS事件的理解.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/扩展知识--概念理解/dom的学习.rtf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/扩展知识--概念理解/javascript的学习.rtf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/扩展知识--概念理解/localStorage学习.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/扩展知识--概念理解/完美居中.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -79,24 +58,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="29" />
+          <entry key="md" value="30" />
           <entry key="rtf" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="29" />
+          <entry key="Markdown" value="30" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="3" />
+          <entry key="md" value="309" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="3" />
+          <entry key="Markdown" value="309" />
         </counts>
       </usages-collector>
     </session>
@@ -105,7 +84,20 @@
     <favorites_list name="第二周" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="175">
+                <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -162,6 +154,7 @@
         <option value="$PROJECT_DIR$/综合小练习--星级评分.md" />
         <option value="$PROJECT_DIR$/综合小练习--自动轮播.md" />
         <option value="$PROJECT_DIR$/9DOM事件.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -177,10 +170,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1932" />
-    <option name="height" value="1056" />
+    <option name="x" value="854" />
+    <option name="y" value="19" />
+    <option name="width" value="1022" />
+    <option name="height" value="844" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -306,7 +299,7 @@
       <workItem from="1540455672024" duration="566000" />
       <workItem from="1542013401151" duration="789000" />
       <workItem from="1557577438251" duration="1459000" />
-      <workItem from="1558071664991" duration="516000" />
+      <workItem from="1558071664991" duration="852000" />
     </task>
     <task id="LOCAL-00001" summary="修改">
       <created>1542013539269</created>
@@ -319,12 +312,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88464000" />
+    <option name="totallyTimeSpent" value="88800000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1654373" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.1654373" />
       <window_info id="DB Browser" order="1" weight="0.32964134" />
       <window_info id="MaxCompute Job Explorer" order="2" weight="0.32964134" />
       <window_info id="MaxCompute Project Explorer" order="3" weight="0.32964134" />
@@ -339,7 +333,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="DB Execution Console" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.6710098" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.44733986" />
       <window_info anchor="bottom" id="MaxCompute Console" order="10" />
       <window_info anchor="bottom" id="MaxCompute Job" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32956687" />
@@ -385,7 +379,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="修改" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test.txt" />
     <entry file="file://$PROJECT_DIR$/js/index.js" />
     <entry file="file://$PROJECT_DIR$/js/js/event/broadcast.js" />
     <entry file="file://$PROJECT_DIR$/js/event/broadcast.js">
@@ -759,6 +752,16 @@
               <element signature="n#!!doc" expanded="true" />
               <element signature="n#!!doc" expanded="true" />
             </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="175">
+            <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
           </first_editor>
           <second_editor />
         </state>
